@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9059
     wikipedia: http://it.wikipedia.org/wiki/Alfredo_Oriani
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43024#La-lotta-politica-in-Italia-Volume-III--of-3-Origini-della-lotta-attuale--476-1887---Quinta-e_
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2013-06-24'
 gutenberg_type: Text
